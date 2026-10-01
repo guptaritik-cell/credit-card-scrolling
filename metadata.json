@@ -1,0 +1,6 @@
+{
+  "name": "3D Infinite Card Carousel",
+  "description": "Interactive 3D infinite looping credit card carousel with customizable card variables and live animation tuning parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
